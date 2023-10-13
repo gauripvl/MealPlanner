@@ -1,2 +1,0 @@
-# MealPlanner
-Healthy Meal Planner
